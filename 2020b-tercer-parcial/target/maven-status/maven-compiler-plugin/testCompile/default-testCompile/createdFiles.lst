@@ -1,0 +1,7 @@
+oop\exams\generator\EastLicensePlateGeneratorTest.class
+oop\exams\generator\NorthLicensePlateGeneratorTest.class
+oop\exams\generator\WestLicensePlateGeneratorTest.class
+oop\exams\generator\SouthLicensePlateGeneratorTest.class
+oop\exams\generator\LicensePlateGeneratorFactoryTest.class
+oop\exams\service\LicensePlateServiceTest.class
+oop\exams\generator\CenterLicensePlateGeneratorTest.class

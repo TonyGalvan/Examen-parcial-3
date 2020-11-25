@@ -1,0 +1,13 @@
+oop\exams\generator\WestLicensePlateGenerator.class
+oop\exams\generator\SouthLicensePlateGenerator.class
+oop\exams\generator\NorthLicensePlateGenerator.class
+oop\exams\exception\BadRegionException.class
+oop\exams\generator\EastLicensePlateGenerator.class
+oop\exams\service\LicensePlateService.class
+oop\exams\generator\LicensePlateGeneratorFactory$1.class
+oop\exams\generator\LicensePlateGenerator.class
+oop\exams\generator\LicensePlateGeneratorFactory.class
+oop\exams\exception\NotAvailableLicensePlateException.class
+oop\exams\generator\CenterLicensePlateGenerator.class
+oop\exams\repository\LicensePlateRepository.class
+oop\exams\model\Region.class
